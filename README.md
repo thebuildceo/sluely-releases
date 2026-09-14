@@ -106,5 +106,5 @@
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <b>Sluely Team</b> • Empowering your workflow with autonomous AI.</sub>
+  <sub>Built with ❤️ by <b>Genthropic Team</b> • Intelligence, engineered.</sub>
 </div>
