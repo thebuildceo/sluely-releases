@@ -1,0 +1,240 @@
+# Sluely Personal Use Source License v1.0
+
+**Copyright © 2026 Genthropic. All rights reserved.**
+
+**Effective Date:** June 1, 2026
+
+This license applies to versions of Sluely released by Genthropic on or after the Effective Date. Versions released before the Effective Date may remain subject to the license terms under which they were previously released. This license does not retroactively revoke rights that were validly granted under an earlier license.
+
+**Sluely is source-available software and is not open-source software.**
+
+The Software is made available solely for personal, educational, research, and other non-commercial purposes, subject to the terms of this license.
+
+By accessing, downloading, copying, modifying, forking, compiling, running, installing, or otherwise using the Software, you agree to be bound by this license.
+
+## 1. Definitions
+
+### 1.1 “Software”
+
+“Software” means Sluely and all materials distributed by Genthropic as part of or in connection with Sluely, including source code, object code, binaries, installers, documentation, assets, build scripts, prompts, configuration files, workflows, and other accompanying materials.
+
+### 1.2 “Licensor”
+
+“Licensor” means **Genthropic**, including any legal entity that owns or is legally authorized to license the intellectual property comprising Sluely.
+
+### 1.3 “You”
+
+“You” means the individual or legal entity accessing, using, modifying, copying, distributing, or otherwise interacting with the Software.
+
+### 1.4 “Fork”
+
+“Fork” means a copy of the Software that has been modified, adapted, renamed, rebranded, or otherwise changed from the version distributed by Genthropic.
+
+### 1.5 “Derivative Work”
+
+“Derivative Work” means any work that is based upon, derived from, adapted from, incorporates, or contains copyrightable portions of the Software, including modifications, forks, ports, translations, rebrands, adaptations, and substantially similar modifications.
+
+### 1.6 “Public Distribution”
+
+“Public Distribution” means making the Software, a Fork, or a Derivative Work available to any person other than yourself, whether through a public repository, download page, website, application store, package registry, file-sharing service, or other distribution mechanism.
+
+### 1.7 “Commercial Use”
+
+“Commercial Use” means use of the Software or any Fork or Derivative Work primarily for commercial, business, revenue-generating, or financial purposes.
+
+Commercial Use includes, without limitation:
+
+* selling or licensing the Software;
+* charging for access to the Software;
+* offering the Software as a paid product or service;
+* using the Software to provide paid services to clients or customers;
+* operating the Software as SaaS, a hosted service, managed service, cloud service, or API;
+* incorporating the Software into a commercial product or service;
+* using the Software in a commercial business, startup, agency, enterprise, or organization;
+* using the Software for paid consulting or client work;
+* monetizing substantially similar functionality derived from the Software; or
+* otherwise using the Software to obtain commercial or financial benefit.
+
+## 2. License Grant
+
+Subject to your continued compliance with this license, Genthropic grants you a limited, non-exclusive, non-transferable, non-sublicensable, royalty-free license to:
+
+1. view and study the source code;
+2. download and copy the Software;
+3. run the Software for personal, educational, research, or other non-commercial purposes;
+4. modify the Software for personal, educational, research, or other non-commercial purposes;
+5. create a Fork for personal, educational, research, or other non-commercial purposes; and
+6. publicly distribute a Fork or Derivative Work solely for personal, educational, research, or other non-commercial purposes, provided that the Fork or Derivative Work complies with this license.
+
+No rights are granted beyond those expressly stated in this license.
+
+## 3. Same-License Requirement
+
+Any Public Distribution of a Fork or Derivative Work must be distributed under this same license.
+
+You may not:
+
+* relicense the Software under another license;
+* distribute a Fork or Derivative Work under terms that conflict with this license;
+* remove or weaken the restrictions contained in this license; or
+* add terms that grant recipients rights that you do not have under this license.
+
+Any copy of the Software or Derivative Work distributed publicly must include a copy of this license.
+
+## 4. Restrictions
+
+Unless you have prior written permission from Genthropic, you may not:
+
+1. use the Software, a Fork, or a Derivative Work for Commercial Use;
+2. sell, rent, lease, sublicense, license, resell, or commercially distribute the Software or any Fork or Derivative Work;
+3. offer the Software or any Fork or Derivative Work as a SaaS product, hosted service, managed service, cloud service, API, paid application, commercial tool, or commercial service;
+4. use the Software in a commercial business, startup, agency, enterprise, client project, marketplace, or revenue-generating workflow;
+5. charge users for access to the Software, a Fork, or a Derivative Work;
+6. use the Software or any Derivative Work to provide paid support, consulting, automation, productivity, AI-assistance, transcription, meeting-assistance, interview-assistance, or similar commercial services;
+7. use the Software or any Derivative Work to develop, market, sell, host, or operate a competing commercial product or service;
+8. remove, obscure, or alter copyright notices, license notices, attribution notices, provenance information, or other legal notices included with the Software;
+9. misrepresent the origin of the Software or claim that a Fork or Derivative Work was independently developed when it is based upon the Software;
+10. use Genthropic's trademarks, logos, product names, domains, branding, or trade dress in a manner that suggests official affiliation, sponsorship, endorsement, or approval;
+11. circumvent, disable, remove, or modify technical measures implemented by Genthropic to enforce or identify licensing, attribution, provenance, or official-build requirements; or
+12. use the Software or its source code for commercial training, benchmarking, or development of a competing commercial product without prior written permission from Genthropic.
+
+Nothing in this section prohibits activities that are expressly permitted by applicable law and cannot legally be restricted by contract.
+
+## 5. No Hosted or Managed Service
+
+The Software may not be provided to third parties as a hosted or managed service without prior written permission from Genthropic.
+
+This restriction includes, without limitation:
+
+* SaaS;
+* cloud-hosted applications;
+* managed services;
+* hosted APIs;
+* remote-access services;
+* commercial desktop services;
+* commercial browser-based services; and
+* substantially similar commercial offerings.
+
+## 6. Attribution
+
+Any publicly distributed Fork or Derivative Work must clearly state:
+
+> “This project is based on Sluely, originally developed by Genthropic.”
+
+The attribution must be reasonably visible and included in applicable distribution materials, including:
+
+1. the README or equivalent documentation;
+2. the license file;
+3. the public repository description, where reasonably supported;
+4. the application's About, Credits, or Legal section, where applicable; and
+5. the website or documentation accompanying the Fork or Derivative Work, where applicable.
+
+You may not remove or intentionally obscure this attribution.
+
+## 7. Branding and Trademarks
+
+Genthropic retains all rights in and to the names, trademarks, logos, product names, domain names, icons, branding, visual identity, trade dress, and other brand assets associated with Genthropic and Sluely.
+
+This license does not grant you any trademark rights.
+
+You may modify the Software and create Forks for permitted non-commercial purposes, but you may not represent a Fork or Derivative Work as an official Genthropic or Sluely product.
+
+You may not use the names, logos, domains, package names, branding, or trade dress of Genthropic or Sluely in a manner likely to cause confusion regarding the origin, affiliation, sponsorship, endorsement, or approval of the Fork or Derivative Work.
+
+Use of the Sluely name or Genthropic trademarks in a factual attribution statement is permitted where required by this license.
+
+## 8. Contributions
+
+Contributions to the Sluely project may be submitted to Genthropic.
+
+Unless a separate written contribution agreement states otherwise, by intentionally submitting a contribution for inclusion in Sluely, you grant Genthropic a perpetual, worldwide, irrevocable, royalty-free, transferable, sublicensable license to use, reproduce, modify, adapt, distribute, publicly display, publicly perform, commercialize, relicense, and incorporate the contribution into Sluely or other Genthropic products or services.
+
+You represent that you have the legal right to submit the contribution and that the contribution does not knowingly violate the rights of another party.
+
+Genthropic is not obligated to accept, merge, publish, maintain, credit, or compensate any contribution.
+
+## 9. Commercial Licensing
+
+Commercial Use is not permitted under this license.
+
+If you wish to use the Software, a Fork, or a Derivative Work for Commercial Use, you must obtain a separate written commercial license from Genthropic.
+
+Commercial permission is valid only if expressly granted in writing by Genthropic or an authorized representative of Genthropic.
+
+Commercial licensing inquiries:
+
+**Genthropic**
+Website: https://genthropic.com
+Email: [Insert official licensing email]
+
+No statement in this license grants implied commercial rights.
+
+## 10. Ownership and Intellectual Property
+
+The Software is licensed, not sold.
+
+Genthropic and its licensors retain all rights, title, and interest in and to the Software, including applicable copyrights, trademarks, trade secrets, source code, object code, documentation, architecture, designs, prompts, workflows, and other intellectual property rights.
+
+Except for the limited rights expressly granted under this license, no rights are granted to you.
+
+## 11. Termination
+
+This license automatically terminates upon your material violation of its terms.
+
+Upon termination, you must immediately cease exercising the rights granted under this license.
+
+Where reasonably required by the violation, you must also cease:
+
+1. using the Software;
+2. distributing unauthorized copies, Forks, or Derivative Works;
+3. hosting or operating unauthorized commercial services based on the Software;
+4. selling or monetizing unauthorized versions; and
+5. using Genthropic or Sluely branding in violation of this license.
+
+Termination does not limit any other rights or remedies available to Genthropic under applicable law.
+
+Rights granted to recipients of copies that were validly distributed before termination are not automatically revoked solely because your license terminated, provided those recipients independently comply with this license.
+
+## 12. Enforcement
+
+Unauthorized Commercial Use, unauthorized SaaS or hosted use, resale, commercial distribution, removal of required attribution, misrepresentation of origin, and misleading use of Genthropic or Sluely branding constitute violations of this license.
+
+Genthropic reserves all rights and remedies available under applicable law, including the right to seek injunctive relief, damages, recovery of profits where legally available, takedowns, and recovery of reasonable legal costs where permitted by law.
+
+## 13. No Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, SECURITY, RELIABILITY, AVAILABILITY, OR ACCURACY.
+
+YOU USE THE SOFTWARE AT YOUR OWN RISK.
+
+## 14. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, GENTHROPIC SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, BUSINESS, GOODWILL, OR USE, ARISING OUT OF OR RELATING TO THE SOFTWARE OR THIS LICENSE.
+
+NOTHING IN THIS LICENSE EXCLUDES OR LIMITS LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+
+## 15. Governing Law and Jurisdiction
+
+This license shall be governed by and interpreted in accordance with the laws of India, without regard to conflict-of-law principles.
+
+Subject to applicable law, disputes arising out of or relating to this license or the Software shall be subject to the jurisdiction of the courts having appropriate jurisdiction at the location of Genthropic's registered office, unless a separate written agreement provides otherwise.
+
+## 16. Severability
+
+If any provision of this license is determined to be invalid, unlawful, or unenforceable, that provision shall be enforced to the maximum extent permitted by law, and the remaining provisions shall remain in full force and effect.
+
+## 17. No Waiver
+
+A failure or delay by Genthropic to enforce any provision of this license shall not constitute a waiver of that provision or of Genthropic's right to enforce it in the future.
+
+## 18. Entire Agreement
+
+This license constitutes the entire agreement between you and Genthropic concerning the licensing of the Software, except where a separate written agreement expressly governs the Software or grants additional rights.
+
+Any commercial license or other additional permission must be provided in writing by Genthropic or an authorized representative.
+
+---
+
+**Sluely is proprietary, source-available software developed by Genthropic.**
+
+**Copyright © 2026 Genthropic. All rights reserved.**
